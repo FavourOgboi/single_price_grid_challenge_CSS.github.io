@@ -46,12 +46,10 @@ const proudOfThisFunc = () => {
 }
 ```
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn mor
-
 ## Author
 
-- gmail - [Add your name here](https://www.ogboifavourifeanyichukwu@gmail.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.FavourOgboi.com/yourusername)
+- gmail - [OgboiFavour](https://www.ogboifavourifeanyichukwu@gmail.com)
+- Frontend Mentor - [@OgboiFavour](https://www.frontendmentor.io/profile/FavourOgboi)
+- Twitter - [@OgboiFavour](https://www.Twitter.com/OgboiFavour)
 
 STILL IMPROVING...
